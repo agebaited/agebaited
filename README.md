@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="200" src="https://cdn.discordapp.com/attachments/1275975429060296774/1276700371091456042/c9EVKK3y.png?ex=66ca7b60&is=66c929e0&hm=d12090f05ba4c66da62796b6b980f3d260d621cffef58b8532a282089f2011f6&](https://projectpokemon.org/images/normal-sprite/pikachu.gif)"  />
+<img align="right" height="200" src="https://projectpokemon.org/images/normal-sprite/pikachu.gif"  />
 
 ###
 
